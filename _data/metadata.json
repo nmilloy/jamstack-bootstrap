@@ -1,20 +1,20 @@
 {
-  "title": "Alex's JAMstack extravoganza",
-  "url": "https://compassionate-lalande-c7f2e6.netlify.app/",
+  "title": "Nicole's JAMstack extravaganza",
+  "url": "https://epic-mayer-5c726f.netlify.app/",
   "description": "JAMStack example site, to showcase my dev skills",
   "feed": {
     "subtitle": "JAMStack example site, to showcase my dev skills",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://compassionate-lalande-c7f2e6.netlify.app/"
+    "id": "https://epic-mayer-5c726f.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://compassionate-lalande-c7f2e6.netlify.app/feed/feed.json"
+    "url": "https://epic-mayer-5c726f.netlify.app/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://compassionate-lalande-c7f2e6.netlify.app/about-me/"
+    "name": "Nicole Milloy",
+    "email": "nmilloy@hotmail.co.uk",
+    "url": "https://epic-mayer-5c726f.netlify.app/"
   }
 }
